@@ -7,7 +7,7 @@ Goodman and Thibodeau (1998; 2003) hierarchical linear model implementation usin
 ## all submarkets_5.R 
 Regressions by submarkets and mapping. Part of the Atlanta race paper to determine is black neighborhoods play higher property tax than non-black neighborhoods. 
 
-## get data_1.R 
+## get data.R 
 Get ACS data (HH head age) and merge with households by census tracts. 
 
 ## submarket 2_2.R
