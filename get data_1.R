@@ -28,7 +28,7 @@ library(tigris)
 library(tidycensus)
 
 #https://api.census.gov/data/key_signup.html
-#census_api_key("590f195bf74ded3640d4b9bfe8e912ac7757ca44")
+#census_api_key("XXXXXXXXXXXXXXXXXXXXXXXX")
 
 v17 <- load_variables(2010, "sf1", cache = TRUE) #use sf2 if doesn't work
 
