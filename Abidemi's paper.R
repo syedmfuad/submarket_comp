@@ -12,7 +12,7 @@ summary(as.factor(data$Schoolname))
 summary(as.factor(data$SCHcode))
 
 #API
-ggmap::register_google(key = "AIzaSyA-UiMPuDvL_CFU34lyIDtow_B020R_sh8")
+ggmap::register_google(key = "XXXXXXXXXXXXXXXXXXXXXXXX")
 
 #getting Atlanta map
 get_local_spot <-  get_map("Atlanta Georgia", maptype = "roadmap", zoom = 11) 
