@@ -1,4 +1,5 @@
 # submarket_comp 
+Code of comparing submarket separation techniques using Atlanta GA data: (i) fully endogenized finite mixture model; (ii) Goodman and Thibodeau hierarchical linear model; (iii) quasi linear model. 
 
 ## hierarchical_model.R
 Goodman and Thibodeau (1998; 2003) hierarchical linear model implementation using math score and square footage. 
